@@ -2,7 +2,6 @@
 - 👀 I’m interested in cybersecurity, and related fields.
 - 🌱 I’m currently learning C++, Python, and Javascript. Also participating in HackTheBox.
 - 💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
-- 
 
 <!---
 Kizum1/Kizum1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
