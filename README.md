@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jay C, also known as Kizumi
+- 👋 Hi, I’m Jay C, I am studying computer science and I hope to transfer to UC Berkeley.
 - 👀 I’m interested in cybersecurity, and related fields.
-- 🌱 I’m currently learning C++, Python, and Javascript.
+- 🌱 I’m currently learning C++, Python, and Javascript. Also participating in HackTheBox.
 - 💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
 - 
 
