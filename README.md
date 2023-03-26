@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jay C, I am studying computer science and I hope to transfer to UC Berkeley.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, and Python.<br>💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
+👋 Hi, I’m Jay, I am studying computer science and I hope to transfer to UC Berkeley.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, and Python.<br>💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
 
 
 # 💻 Tech Stack:
@@ -8,5 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kizum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kizum1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizum1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
