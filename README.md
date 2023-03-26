@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jay, I am studying computer science and I hope to transfer to UC Berkeley.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, and Python.<br>💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
+👋 Hi, I’m Jay, I am a first year computer engineering major.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, and Python.<br>💞️ I’m looking to collaborate on Hackathons, and CTF Challenges
 
 
 # 💻 Tech Stack:
