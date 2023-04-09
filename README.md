@@ -9,4 +9,4 @@
  
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kizum1&show_icons=true&theme=tokyonight&line_height=27"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kizum1&show_icons=true&theme=tokyonight&line_height=33"/>
