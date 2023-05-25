@@ -1,4 +1,4 @@
-👋 Hi, I’m Jay, I am a first year computer engineering major.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, Python, and Web Dev.<br>
+👋 Hi, I’m Jay, I am a first year computer engineering major.<br>👀 I’m interested in cybersecurity, and related fields.<br>🌱 I’m currently learning C++, Python, and Web Dev.<br> 🤎 Fun fact: I love the artist IU
 
 🔭 Participant of...<br> - Canadian Cyber Defence Challenge 2022 (19th)<br> - nwHacks 2022 <br> - ISACA CTF Challenge 2022 (3rd)<br> - Metaverse Hackathon 2023<br> - LA Hacks 2023 <br> - Viking Hacks 2023 (Judge)
 # 💻 Tech Stack:
