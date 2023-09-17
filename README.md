@@ -1,7 +1,5 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizum1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="220px" alt="Most used languages"></a>
 
-### 🙋 Welcome to the my Github profile!
-
 ##### 👋 Hi, I’m Jay, I am a second year computer engineering major.
 ##### 👀 I’m interested in cybersecurity, and web development.
 ##### 🌱 I’m currently learning Python, Bootstrap, and React.
