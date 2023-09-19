@@ -2,7 +2,7 @@
 
 ##### 👋 Hi, I’m Jay, I am a second year computer engineering major.
 ##### 👀 I’m interested in cybersecurity, and web development.
-##### 🌱 I’m currently learning Python, Bootstrap, and React.
+##### 🌱 I’m currently learning Python, React and Cybersecurity.
 ##### 🤎 Fun fact: I love the artist IU
 
 ### Some things I like...
